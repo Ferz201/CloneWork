@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">WSBank</string>
+    <string name="change_password">Изменение пароля</string>
+    <string name="change_login">Изменение логина</string>
+    <string name="visit_history">История посещений</string>
+    <string name="information">Информация о приложении</string>
+    <string name="profile">Профиль</string>
+    <string name="exit">Выход</string>
+    <string name="home">Главный</string>
+    <string name="pay">Платежи</string>
+    <string name="history">История</string>
+    <string name="dialogs">Диалоги</string>
+    <string name="changed">Изменить</string>
+    <string name="cencel">Отмена</string>
+    <string name="set_new_password">Введите новый пароль</string>
+    <string name="set_new_login">Введите новый логин</string>
+    <string name="password">Пароль</string>
+    <string name="login">Логин</string>
+    <string name="my_cards">Мои карты</string>
+    <string name="my_bills">Мои счета</string>
+    <string name="my_credits">Мои кредиты</string>
+    <string name="replenish">Пополнить</string>
+    <string name="transfer">Перевести</string>
+    <string name="history_operations">История операций</string>
+    <string name="block">Заблокировать</string>
+    <string name="block_card">Блокировка карты</string>
+
+
+    <string name="block_card_question">Вы уверены что хотите заблокировать карту</string>
+</resources>

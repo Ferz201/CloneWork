@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test Api</string>
+
+<!--        Menu          -->
+    <string name="menu_home">Главный</string>
+    <string name="menu_pay">Платежи</string>
+    <string name="menu_history">История</string>
+    <string name="menu_dialog">Диалоги</string>
+</resources>
